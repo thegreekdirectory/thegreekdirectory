@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.thegreekdirectory.org/img/logo/app1.png" alt="The Greek Directory logo" width="150">
+  <img src="https://static.thegreekdirectory.org/img/logo/blueonekey.svg" alt="The Greek Directory logo" width="150">
   <h1>The Greek Directory™</h1>
   <p><strong>The directory for everything Greek.</strong></p>
   <p>A central digital home for Greek and Greek-American life.</p>
